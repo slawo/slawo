@@ -1,4 +1,10 @@
-### Hi there 👋
+### Software engineer
+
+- 👯 I’m looking to collaborate on cool projects prefferably integrating with hardware.
+
+https://slawo.github.io
+
+
 
 <!--
 **slawo/slawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
