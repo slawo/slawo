@@ -1,6 +1,7 @@
 ### Software engineer
 
-- 👯 I’m looking to collaborate on cool projects prefferably integrating with hardware.
+- 🔭 I’m currently working on [gollamas](https://github.com/slawo/gollamas)
+- 👯 I like projects integrating with hardware.
 
 https://slawo.github.io
 
