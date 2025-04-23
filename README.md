@@ -1,6 +1,6 @@
 ### Software engineer
 
-- 🔭 I’m currently working on [gollamas](https://github.com/slawo/gollamas)
+- 🔭 My current OS project [gollamas](https://github.com/slawo/gollamas) a proxy for the ollama LLM service.
 - 👯 I like projects integrating with hardware.
 
 https://slawo.github.io
